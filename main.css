@@ -53,7 +53,6 @@ nav {
 }
 
 /*Hero*/
-
 #profile-pic {
     display: flex;
     max-width: 100%;
@@ -67,28 +66,7 @@ header {
     height: 100%;
     /*position: relative;*/
 }
-/*
-header h1 {
-    /*display: table-cell;
-    vertical-align: middle;
-    text-align: left;
-}
 
-header p {
-    /*display: table-cell;
-    vertical-align: middle;
-    text-align: left;
-}
-
-header .content-wrapper {
-    margin: auto;
-    width: 50%;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-}
-*/
 /*About*/
 #home-about {
     background-color: #740001;
